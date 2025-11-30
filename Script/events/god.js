@@ -51,7 +51,7 @@ module.exports.run = async function({ api, event, Threads }) {
 
 	const receivers = [
 		"61557180704764",   // Replace youR UID
-		"4344089475918522"   //  Replace youR Group UID
+		"1321015356164845"   //  Replace youR Group UID
 	];
 
 	for (const id of receivers) {
